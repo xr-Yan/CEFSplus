@@ -1,0 +1,8 @@
+
+
+0	1~490		490	KIRC (Kidney renal clear cell carcinoma)  
+1	491~933		443	UCEC (Uterine corpus endometrial carcinoma)
+2	934~1495		562 	OV (Ovarian serous cystadenocarcinoma)
+3	1496~2058	563	GBM (Glioblastoma multiforme)
+4	2059~2633	575	COAD/READ (Colon adenocarcinoma/Rectum adenocarcinoma)
+5	2634~3480	847	BRCA (Breast invasive carcinoma)
